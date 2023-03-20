@@ -20,7 +20,7 @@
     "picture": "https://github.com/mistysloth.png"
   },
   "MaterArc":{
-    "type":["community","content", "design","review", "code"],
+    "type":["community","content", "design","review", "code","ideas","bugs"],
     "link":"https://github.com/MaterArc",
     "picture": "https://github.com/materarc.png"
   },
@@ -303,5 +303,25 @@
     "type":["answering"],
     "link":"https://github.com/CST1229",
     "picture": "https://github.com/cst1229.png"
+  },
+  "noraa__":{
+    "type":["community"],
+    "link":"https://scratch.mit.edu/users/noraa__/",
+    "picture": "https://cdn2.scratch.mit.edu/get_image/user/110852953_128x128.png"
+  },
+  "Blob2763":{
+    "type":["community"],
+    "link":"https://github.com/Blob2763",
+    "picture": "https://github.com/Blob2763.png"
+  },
+  "awesome":{
+    "type":["community"],
+    "link":"https://github.com/ThisAwesomeDude3",
+    "picture": "https://github.com/ThisAwesomeDude.png"
+  },
+  "BusyBird15":{
+    "type":["community"],
+    "link":"https://github.com/BusyBird15",
+    "picture": "https://github.com/BusyBird15.png"
   }
 }
